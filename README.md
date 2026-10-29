@@ -80,13 +80,13 @@ A hackathon prototype focused on tracking public transportation in real time wit
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Yuvaraj7744">
+  <a href="https://github.com/LOGUPRASATHP">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/yuvaraj-s-4b7815315/">
+  <a href="https://www.linkedin.com/in/logu-prasath-palpandi-aa6129337">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@yuvarajas964">
+  <a href="https://medium.com/@Logu_prasath">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
