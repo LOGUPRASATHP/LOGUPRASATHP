@@ -77,23 +77,6 @@ A hackathon prototype focused on tracking public transportation in real time wit
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yuvaraj7744&show_icons=true&theme=tokyonight&hide_border=true" alt="Logu's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj7744&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yuvaraj7744&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
