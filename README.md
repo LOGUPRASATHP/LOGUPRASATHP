@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Logu Prasath Palpandi</h1>
 
 <h3 align="center">💻 Frontend Developer | React.js | JavaScript | TypeScript</h3>
@@ -123,4 +123,4 @@ A hackathon prototype focused on tracking public transportation in real time wit
   <br />
   <b>Let's learn, build, and grow together.</b> 🚀
 </p>
-```
+
